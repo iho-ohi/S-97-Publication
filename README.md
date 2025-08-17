@@ -5,5 +5,6 @@ This is the IHO repository for developing the working drafts and other material 
 >Please refer to the final version published on the official [IHO website](https://iho.int).
 
 Folders: 
+- documents - draft documents
 - requirements - background material pertaining to requirements
 
